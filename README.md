@@ -2,6 +2,8 @@
 
 Interface estática inspirada em layout de rede social, desenvolvida com foco em responsividade e organização estrutural utilizando HTML e CSS puros.
 
+Link do site: https://socialmediatemplate.vercel.app/
+
 ## Contexto
 
 Este projeto foi desenvolvido como prática de layout responsivo a partir de uma referência visual.  
